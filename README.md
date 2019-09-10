@@ -1,0 +1,1 @@
+# gatsby-body-class-fouc
